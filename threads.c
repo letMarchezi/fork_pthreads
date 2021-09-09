@@ -4,7 +4,21 @@
 
 
 #define NUM_MAX 30000
-void *routine(void *arg){
+
+
+/* Integrantes:
+ * Augusto Luchesi Matos - 740871
+ * Ingrid Lira dos Santos - 790888
+ * João Otavio Martini Korczovei - 790913
+ * Leticia Bossatto Marchezi - 791003
+ * Pratica 1 - Teste de criacao de processos e threads
+ * Data: 09/09/2021
+*/
+
+
+
+void *routine(void *arg)
+{
 	return NULL;
 }
   
